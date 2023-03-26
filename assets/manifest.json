@@ -1,6 +1,6 @@
 {
-  "name": "egui Template PWA",
-  "short_name": "egui-template-pwa",
+  "name": "egui Steroid SoundTracker PWA",
+  "short_name": "egui-sst-pwa",
   "icons": [
     {
       "src": "./icon-256.png",
