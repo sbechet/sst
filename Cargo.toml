@@ -3,7 +3,7 @@ name = "sst"
 version = "0.1.0"
 authors = ["Sébastien Béchet <sebastien.bechet@free.fr>"]
 edition = "2021"
-rust-version = "1.68"
+rust-version = "1.65"
 
 
 [dependencies]
